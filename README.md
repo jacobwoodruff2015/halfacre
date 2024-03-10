@@ -1,0 +1,2 @@
+# halfacre
+coinbase trading bot
